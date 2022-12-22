@@ -65,7 +65,7 @@ const myArticle = [{
     thirdParagraph: "Oh, no, my feelings are more important than yours. Oh-oh-oh, drop dead, I don't care, I won't worry. Let it go"
 }]
 
-artAnchor.appendChild(myArticle);
+// artAnchor.appendChild(myArticle);
 
 
 /* <div class="article">
